@@ -5,7 +5,19 @@ class Dog
     @age = age
     @breed = breed
     @personality = personality
+  end
   
+  def return_name
+    @name
+  end
   
+  def return_age
+    @age
+  end
   
-end
+  def return_breed
+    @breed
+  end
+  
+  def return_personality
+    @personality

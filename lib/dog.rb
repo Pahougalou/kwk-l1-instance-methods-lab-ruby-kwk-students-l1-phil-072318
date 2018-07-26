@@ -32,4 +32,4 @@ class Dog
   
 end
 
- bark
+ puts dog.bark

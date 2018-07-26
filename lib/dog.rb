@@ -21,3 +21,8 @@ class Dog
   
   def return_personality
     @personality
+    
+    def bark
+      puts "WOOP?"
+    end
+    ed

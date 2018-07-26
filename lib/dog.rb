@@ -25,4 +25,4 @@ class Dog
     def bark
       puts "WOOP?"
     end
-    ed
+  end
